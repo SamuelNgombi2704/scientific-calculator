@@ -1,7 +1,3 @@
-Sure! Here's a **completely rewritten README** in the first person that explains the project clearly and professionally:
-
----
-
 # My Project
 
 Welcome! This is a web application I've built using modern frontend tools and design systems. The project is structured for scalability, fast development, and clean UI, making it suitable for both personal and production use.
@@ -75,7 +71,3 @@ I'm planning to:
 * Add backend integration via an API (e.g., FastAPI or Firebase)
 * Improve accessibility and testing
 * Deploy a production version with performance optimizations
-
----
-
-Let me know if you want a version tailored for showcasing a specific type of app (e.g., portfolio, SaaS dashboard, AI tool, etc.) or want to include badges, screenshots, or a live demo link.
